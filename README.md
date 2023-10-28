@@ -1,6 +1,8 @@
 # navigator
+![Screenshot_1698514478](https://github.com/DavlatbekSalimov/Navigator/assets/125696532/d0f6cc57-5b0e-4808-a61c-ce34ced192a9)
 
-A new Flutter project.
+A new Flutter project
+
 
 ## Getting Started
 
